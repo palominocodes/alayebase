@@ -1,4 +1,4 @@
-import './App.css';
+
 import InputDetails from './InputDetails';
 
 function App() {
